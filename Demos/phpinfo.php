@@ -1,0 +1,7 @@
+<!--
+"Standardfunktion" phpinfo :-)
+-->
+<?php
+phpinfo();
+?>
+
